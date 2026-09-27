@@ -1,0 +1,6 @@
+{
+  "name": "Sayyidul Istighfar 4K Islamic Wallpaper Studio",
+  "description": "সাইয়েদুল ইস্তিগফার ও প্রাত্যহিক শ্রেষ্ঠ দোয়া সমূহের ৪কে (4K Ultra-HD) ইসলামিক ডেস্কটপ ওয়ালপেপার জেনারেটর এবং মুখস্থ করার ডিজিটাল স্টুডিও। Designed by Ammar Khandoker.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
